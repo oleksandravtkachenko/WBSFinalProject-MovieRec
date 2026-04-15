@@ -1,2 +1,6 @@
-alice,Happy,"['Comedy', 'Romance']",Notting Hill,['Horror'],2026-04-15T22:51:44.311849
-alice,Happy,"['Comedy', 'Romance']",Notting Hill,['Horror'],2026-04-15T22:51:45.340389
+user_id,mood,genres,favorite
+hanna,Happy,"['Comedy', 'Animation']",The Grand Budapest Hotel
+barbara,Tense,"['Thriller', 'Action']",Heat
+christoph,Romantic,"['Romance', 'Drama']",Notting Hill
+oleksandra,Adventurous,"['Sci-Fi', 'Action']",Interstellar
+thomas,Thoughtful,"['Drama', 'Documentary']",Parasite
