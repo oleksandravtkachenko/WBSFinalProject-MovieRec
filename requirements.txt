@@ -1,0 +1,9 @@
+requests
+python-dotenv
+spotipy
+sentence-transformers
+scikit-learn
+numpy
+groq
+gradio
+pandas
